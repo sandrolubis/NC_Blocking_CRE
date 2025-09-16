@@ -1,5 +1,11 @@
 # NC_Blocking_CRE
-This is the repository for the Nature Communication manuscript 'Cloud-Radiative Effects Significantly Increase Wintertime Atmospheric Blocking in the Euro-Atlantic Sector'
 
-The source data for Figs. 1-8.\\
-The script for generating the figures.
+This repository accompanies the *Nature Communications* manuscript:  
+**“Cloud-Radiative Effects Significantly Increase Wintertime Atmospheric Blocking in the Euro-Atlantic Sector.”**
+
+## Contents
+- **Source data**: Files used to produce Figures 1–8.  
+- **Scripts**: Code for generating the figures from the manuscript.  
+
+## Citation
+If you use this repository, please cite the manuscript: 
